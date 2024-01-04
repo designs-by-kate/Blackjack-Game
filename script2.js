@@ -89,7 +89,7 @@ function takeTurn(player){
 addNewPlayer();
 initializeDealer();
 
-while(players.some(player => player.play)){ // have no idea as it work yet :)
+while(players.some(player => player.play)){ 
     for(let player of players){
         takeTurn(player);
     }
