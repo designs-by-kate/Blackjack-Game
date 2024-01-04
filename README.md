@@ -1,3 +1,5 @@
+https://designs-by-kate.github.io/Blackjack-Game/
+
 # Blackjack-Game
 
 1. Open the index.html file in your preferred web browser.
